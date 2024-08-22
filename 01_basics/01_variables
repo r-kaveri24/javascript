@@ -1,0 +1,14 @@
+const k="kaveri"
+let n="nasreen"
+var m="meghana"
+trio = "inphynous"
+
+console.log(k+n+m+trio);
+
+// k="akash" /this is not allowed in js\
+// var is not used now because of the block scope and functional scope
+console.log(k)
+n="married"
+m="inrelation"
+trio="completed"
+console.log(n+m+trio)
